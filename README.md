@@ -11,4 +11,4 @@ I'm a frontend developer with over 2 years of commercial experience. I'm current
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koopeek&layout=compact)](https://github.com/koopeek/github-readme-stats)
 
- <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=koopeek&count_private=true" />
+ <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=koopeek&count_private=true&show_icons=true" />
