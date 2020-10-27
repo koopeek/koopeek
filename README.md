@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a frontend developer with over 2 years of commercial experience. I'm currently learning Typescript and Node.js. At the same time, I'm constantly expanding my knowledge of React.js and its ecosystem.
+I'm a frontend developer. Feel free to contact with me at any of my social media listed below.
 
 ## Contact
 
