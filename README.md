@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a frontend developer. Feel free to contact with me at any of my social media listed below.
+I'm a full stack developer. Feel free to contact with me at any of my social media listed below.
 
 ## Contact
 
